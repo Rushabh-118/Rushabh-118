@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rushabh-118
+- 👋 Hi, I’m @Rushabh-118 [Rushabh Mistry]
 - 👀 I’m interested in Full Stack Web-Dev
 - 🌱 I’m currently learning MERN-stack
 
